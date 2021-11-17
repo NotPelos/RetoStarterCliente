@@ -1,0 +1,13 @@
+package starterCliente;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class starterClienteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(starterClienteApplication.class, args);
+	}
+
+}
